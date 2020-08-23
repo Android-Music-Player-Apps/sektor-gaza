@@ -10,9 +10,7 @@ It includes the full discography of a legendary Soviet & Russian rock band Sekto
 
 ## Screenshots
 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_XXX.png" width="360" height="640"> 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_YYY.png" width="360" height="640"> 
-<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/korol-i-shut/master/screenshots/Screenshot_ZZZ.png" width="360" height="640">
+<img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/sektor-gaza/master/screenshots/Screenshot_1598172904.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/sektor-gaza/master/screenshots/Screenshot_1598172908.png" width="360" height="640"> <img src="https://raw.githubusercontent.com/Android-Music-Player-Apps/sektor-gaza/master/screenshots/Screenshot_1598173011.png" width="360" height="640">
 
 ## Privacy policy
 
